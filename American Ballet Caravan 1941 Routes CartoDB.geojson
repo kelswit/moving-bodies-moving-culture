@@ -1,0 +1,305 @@
+{
+"type": "FeatureCollection",
+"features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "New York City",
+            "End_City": "Rio de Janeiro",
+            "Transportation": "boat"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-74.005941, 40.712784], [-43.172896, -22.906847] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Rio de Janeiro",
+            "End_City": "Sao Paulo",
+            "Transportation": "train"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-43.172896, -22.906847], [-46.633309, -23.55052] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Sao Paulo",
+            "End_City": "Santos",
+            "Transportation": ""
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.633309, -23.55052], [-46.328887, -23.967882] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Santos",
+            "End_City": "Buenos Aires",
+            "Transportation": "boat"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.328887, -23.967882], [-58.381559, -34.603684] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Buenos Aires",
+            "End_City": "Montevideo",
+            "Transportation": "boat"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [-56.164531, -34.901113] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Montevideo",
+            "End_City": "Buenos Aires",
+            "Transportation": "boat"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-56.164531, -34.901113], [-58.381559, -34.603684] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Buenos Aires",
+            "End_City": "Rosario",
+            "Transportation": "train"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [-60.650539, -32.944243] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Rosario",
+            "End_City": "Cordoba",
+            "Transportation": "train"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-60.650539, -32.944243], [-68.845839, -32.889459] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Cordoba",
+            "End_City": "Mendoza",
+            "Transportation": "train"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-68.845839, -32.889459], [-68.8272, -32.8908] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Mendoza",
+            "End_City": "Santiago de Chile",
+            "Transportation": "plane"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-68.8272, -32.8908], [-70.666667, -33.45] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Santiago de Chile",
+            "End_City": "Valparaiso",
+            "Transportation": "train"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [-71.612688, -33.047238] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Santiago de Chile",
+            "End_City": "Valparaiso",
+            "Transportation": "bus"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [-71.612688, -33.047238] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Valparaiso",
+            "End_City": "Callao",
+            "Transportation": "boat"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-71.612688, -33.047238], [-77.125984, -12.050849] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Callao",
+            "End_City": "Lima",
+            "Transportation": "auto"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-77.125984, -12.050849], [-77.042793, -12.046374] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Lima",
+            "End_City": "Callao",
+            "Transportation": "auto"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-77.042793, -12.046374], [-77.125984, -12.050849] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Callao",
+            "End_City": "Buenaventura",
+            "Transportation": "boat"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-77.125984, -12.050849], [-77.019721, 3.883047] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Buenaventura",
+            "End_City": "Cali",
+            "Transportation": "rail"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-77.019721, 3.883047], [-76.531985, 3.451647] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Cali",
+            "End_City": "Cartago",
+            "Transportation": "rail"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-76.531985, 3.451647], [-75.911629, 4.747221] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Cartago",
+            "End_City": "Manizales",
+            "Transportation": "rail"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.911629, 4.747221], [-75.513817, 5.070275] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Manizales",
+            "End_City": "Medellin",
+            "Transportation": "auto"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.513817, 5.070275], [-75.564574, 6.253041] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Medellin",
+            "End_City": "Bogota",
+            "Transportation": "plane"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.564574, 6.253041], [-74.072092, 4.710989] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Bogota",
+            "End_City": "Cucuta",
+            "Transportation": "bus"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-74.072092, 4.710989], [-72.49669, 7.889097] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Cucuta",
+            "End_City": "Caracas",
+            "Transportation": "auto"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-72.49669, 7.889097], [-66.803718, 10.46964] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "Caracas",
+            "End_City": "La Guaira",
+            "Transportation": "auto"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-66.803718, 10.46964], [-66.933056, 10.6] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_City": "La Guaira",
+            "End_City": "New York City",
+            "Transportation": "boat"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-66.933056, 10.6], [-74.005941, 40.712784] ]
+            }
+        }
+    ]
+}
