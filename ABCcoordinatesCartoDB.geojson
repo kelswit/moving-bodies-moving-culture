@@ -1,0 +1,255 @@
+{
+"type": "FeatureCollection",
+"features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "New York City"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.005941, 40.712784]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Rio de Janeiro"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-43.172896, -22.906847]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Sao Paulo"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-46.633309, -23.55052]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Santos"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-46.328887, -23.967882]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Buenos Aires"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-58.381559, -34.603684]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Montevideo"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-56.164531, -34.901113]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Buenos Aires"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-58.381559, -34.603684]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Rosario"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-60.650539, -32.944243]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Cordoba"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-68.845839, -32.889459]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Mendoza"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-68.8272, -32.8908]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Santiago de Chile"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-70.666667, -33.45]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Valparaiso"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.612688, -33.047238]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Callao"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.125984, -12.050849]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Lima"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.042793, -12.046374]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Callao"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.125984, -12.050849]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Buenaventura"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.019721, 3.883047]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Cali"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.531985, 3.451647]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Cartago"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.911629, 4.747221]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Manizales"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.513817, 5.070275]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Medellin"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.564574, 6.253041]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Bogota"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.072092, 4.710989]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Cucuta"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.49669, 7.889097]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Caracas"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-66.803718, 10.46964]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "La Guaira"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-66.933056, 10.6]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": "Vina del Mar"
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.550028, -33.015348]
+            }
+        }
+    ]
+}
