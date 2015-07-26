@@ -4,7 +4,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "New York City"
+            "City": "New York City",
+            "Country": "United States of America"
             },
         "geometry": {
             "type": "Point",
@@ -14,7 +15,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Rio de Janeiro"
+            "City": "Rio de Janeiro",
+            "Country": "Brazil"
             },
         "geometry": {
             "type": "Point",
@@ -24,7 +26,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Sao Paulo"
+            "City": "Sao Paulo",
+            "Country": "Brazil"
             },
         "geometry": {
             "type": "Point",
@@ -34,7 +37,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Santos"
+            "City": "Santos",
+            "Country": "Brazil"
             },
         "geometry": {
             "type": "Point",
@@ -44,7 +48,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Buenos Aires"
+            "City": "Buenos Aires",
+            "Country": "Argentina"
             },
         "geometry": {
             "type": "Point",
@@ -54,7 +59,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Montevideo"
+            "City": "Montevideo",
+            "Country": "Uruguay"
             },
         "geometry": {
             "type": "Point",
@@ -64,7 +70,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Buenos Aires"
+            "City": "Buenos Aires",
+            "Country": "Argentina"
             },
         "geometry": {
             "type": "Point",
@@ -74,7 +81,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Rosario"
+            "City": "Rosario",
+            "Country": "Argentina"
             },
         "geometry": {
             "type": "Point",
@@ -84,7 +92,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Cordoba"
+            "City": "Cordoba",
+            "Country": "Argentina"
             },
         "geometry": {
             "type": "Point",
@@ -94,7 +103,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Mendoza"
+            "City": "Mendoza",
+            "Country": "Argentina"
             },
         "geometry": {
             "type": "Point",
@@ -104,7 +114,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Santiago de Chile"
+            "City": "Santiago de Chile",
+            "Country": "Chile"
             },
         "geometry": {
             "type": "Point",
@@ -114,7 +125,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Valparaiso"
+            "City": "Valparaiso",
+            "Country": "Chile"
             },
         "geometry": {
             "type": "Point",
@@ -124,7 +136,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Callao"
+            "City": "Callao",
+            "Country": "Peru"
             },
         "geometry": {
             "type": "Point",
@@ -134,7 +147,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Lima"
+            "City": "Lima",
+            "Country": "Peru"
             },
         "geometry": {
             "type": "Point",
@@ -144,7 +158,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Callao"
+            "City": "Callao",
+            "Country": "Peru"
             },
         "geometry": {
             "type": "Point",
@@ -154,7 +169,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Buenaventura"
+            "City": "Buenaventura",
+            "Country": "Colombia"
             },
         "geometry": {
             "type": "Point",
@@ -164,7 +180,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Cali"
+            "City": "Cali",
+            "Country": "Colombia"
             },
         "geometry": {
             "type": "Point",
@@ -174,7 +191,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Cartago"
+            "City": "Cartago",
+            "Country": "Colombia"
             },
         "geometry": {
             "type": "Point",
@@ -184,7 +202,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Manizales"
+            "City": "Manizales",
+            "Country": "Colombia"
             },
         "geometry": {
             "type": "Point",
@@ -194,7 +213,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Medellin"
+            "City": "Medellin",
+            "Country": "Colombia"
             },
         "geometry": {
             "type": "Point",
@@ -204,7 +224,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Bogota"
+            "City": "Bogota",
+            "Country": "Colombia"
             },
         "geometry": {
             "type": "Point",
@@ -214,7 +235,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Cucuta"
+            "City": "Cucuta",
+            "Country": "Colombia"
             },
         "geometry": {
             "type": "Point",
@@ -224,7 +246,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Caracas"
+            "City": "Caracas",
+            "Country": "Venezuela"
             },
         "geometry": {
             "type": "Point",
@@ -234,7 +257,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "La Guaira"
+            "City": "La Guaira",
+            "Country": "Venezuela"
             },
         "geometry": {
             "type": "Point",
@@ -244,7 +268,8 @@
     {
         "type": "Feature",
         "properties": {
-            "City": "Vina del Mar"
+            "City": "Vina del Mar",
+            "Country": "Chile"
             },
         "geometry": {
             "type": "Point",
