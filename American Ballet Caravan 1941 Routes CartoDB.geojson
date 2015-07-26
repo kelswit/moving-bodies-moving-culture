@@ -4,6 +4,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 1,
+            "End_Stay": 2,
             "Start_City": "New York City",
             "End_City": "Rio de Janeiro",
             "Transportation": "boat"
@@ -16,6 +18,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 2,
+            "End_Stay": 3,
             "Start_City": "Rio de Janeiro",
             "End_City": "Sao Paulo",
             "Transportation": "train"
@@ -28,6 +32,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 3,
+            "End_Stay": 17,
             "Start_City": "Sao Paulo",
             "End_City": "Santos",
             "Transportation": ""
@@ -40,6 +46,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 17,
+            "End_Stay": 4,
             "Start_City": "Santos",
             "End_City": "Buenos Aires",
             "Transportation": "boat"
@@ -52,6 +60,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 4,
+            "End_Stay": 5,
             "Start_City": "Buenos Aires",
             "End_City": "Montevideo",
             "Transportation": "boat"
@@ -64,6 +74,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 5,
+            "End_Stay": 18,
             "Start_City": "Montevideo",
             "End_City": "Buenos Aires",
             "Transportation": "boat"
@@ -76,6 +88,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 18,
+            "End_Stay": 6,
             "Start_City": "Buenos Aires",
             "End_City": "Rosario",
             "Transportation": "train"
@@ -88,6 +102,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 6,
+            "End_Stay": 7,
             "Start_City": "Rosario",
             "End_City": "Cordoba",
             "Transportation": "train"
@@ -100,6 +116,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 7,
+            "End_Stay": 8,
             "Start_City": "Cordoba",
             "End_City": "Mendoza",
             "Transportation": "train"
@@ -112,6 +130,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 8,
+            "End_Stay": 9,
             "Start_City": "Mendoza",
             "End_City": "Santiago de Chile",
             "Transportation": "plane"
@@ -124,6 +144,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 9,
+            "End_Stay": 19,
             "Start_City": "Santiago de Chile",
             "End_City": "Valparaiso",
             "Transportation": "train"
@@ -136,6 +158,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 9,
+            "End_Stay": 19,
             "Start_City": "Santiago de Chile",
             "End_City": "Valparaiso",
             "Transportation": "bus"
@@ -148,6 +172,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 19,
+            "End_Stay": 20,
             "Start_City": "Valparaiso",
             "End_City": "Callao",
             "Transportation": "boat"
@@ -160,6 +186,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 20,
+            "End_Stay": 11,
             "Start_City": "Callao",
             "End_City": "Lima",
             "Transportation": "auto"
@@ -172,6 +200,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 11,
+            "End_Stay": 21,
             "Start_City": "Lima",
             "End_City": "Callao",
             "Transportation": "auto"
@@ -184,6 +214,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 21,
+            "End_Stay": 22,
             "Start_City": "Callao",
             "End_City": "Buenaventura",
             "Transportation": "boat"
@@ -196,6 +228,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 22,
+            "End_Stay": 12,
             "Start_City": "Buenaventura",
             "End_City": "Cali",
             "Transportation": "rail"
@@ -208,6 +242,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 12,
+            "End_Stay": 23,
             "Start_City": "Cali",
             "End_City": "Cartago",
             "Transportation": "rail"
@@ -220,6 +256,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 23,
+            "End_Stay": 13,
             "Start_City": "Cartago",
             "End_City": "Manizales",
             "Transportation": "rail"
@@ -232,6 +270,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 13,
+            "End_Stay": 14,
             "Start_City": "Manizales",
             "End_City": "Medellin",
             "Transportation": "auto"
@@ -244,6 +284,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 14,
+            "End_Stay": 14,
             "Start_City": "Medellin",
             "End_City": "Bogota",
             "Transportation": "plane"
@@ -256,6 +298,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 15,
+            "End_Stay": 24,
             "Start_City": "Bogota",
             "End_City": "Cucuta",
             "Transportation": "bus"
@@ -268,6 +312,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 24,
+            "End_Stay": 16,
             "Start_City": "Cucuta",
             "End_City": "Caracas",
             "Transportation": "auto"
@@ -280,6 +326,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 16,
+            "End_Stay": 25,
             "Start_City": "Caracas",
             "End_City": "La Guaira",
             "Transportation": "auto"
@@ -292,6 +340,8 @@
     {
         "type": "Feature",
         "properties": {
+            "Start_Stay": 25,
+            "End_Stay": 26,
             "Start_City": "La Guaira",
             "End_City": "New York City",
             "Transportation": "boat"

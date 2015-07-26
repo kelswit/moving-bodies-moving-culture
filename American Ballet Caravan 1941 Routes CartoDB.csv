@@ -1,26 +1,26 @@
-Start_City,Start_Lat,Start_Long,End_City,End_Lat,End_Long,Transportation
-New York City,40.712784,-74.005941,Rio de Janeiro,-22.906847,-43.172896,boat
-Rio de Janeiro,-22.906847,-43.172896,Sao Paulo,-23.55052,-46.633309,train
-Sao Paulo,-23.55052,-46.633309,Santos,-23.967882,-46.328887,
-Santos,-23.967882,-46.328887,Buenos Aires,-34.603684,-58.381559,boat
-Buenos Aires,-34.603684,-58.381559,Montevideo,-34.901113,-56.164531,boat
-Montevideo,-34.901113,-56.164531,Buenos Aires,-34.603684,-58.381559,boat
-Buenos Aires,-34.603684,-58.381559,Rosario,-32.944243,-60.650539,train
-Rosario,-32.944243,-60.650539,Cordoba,-32.889459,-68.845839,train
-Cordoba,-32.889459,-68.845839,Mendoza,-32.8908,-68.8272,train
-Mendoza,-32.8908,-68.8272,Santiago de Chile,-33.45,-70.666667,plane
-Santiago de Chile,-33.45,-70.666667,Valparaiso,-33.047238,-71.612688,train
-Santiago de Chile,-33.45,-70.666667,Valparaiso,-33.047238,-71.612688,bus
-Valparaiso,-33.047238,-71.612688,Callao,-12.050849,-77.125984,boat
-Callao,-12.050849,-77.125984,Lima,-12.046374,-77.042793,auto
-Lima,-12.046374,-77.042793,Callao,-12.050849,-77.125984,auto
-Callao,-12.050849,-77.125984,Buenaventura,3.883047,-77.019721,boat
-Buenaventura,3.883047,-77.019721,Cali,3.451647,-76.531985,rail
-Cali,3.451647,-76.531985,Cartago,4.747221,-75.911629,rail
-Cartago,4.747221,-75.911629,Manizales,5.070275,-75.513817,rail
-Manizales,5.070275,-75.513817,Medellin,6.253041,-75.564574,auto
-Medellin,6.253041,-75.564574,Bogota,4.710989,-74.072092,plane
-Bogota,4.710989,-74.072092,Cucuta,7.889097,-72.49669,bus
-Cucuta,7.889097,-72.49669,Caracas,10.46964,-66.803718,auto
-Caracas,10.46964,-66.803718,La Guaira,10.6,-66.933056,auto
-La Guaira,10.6,-66.933056,New York City,40.712784,-74.005941,boat
+Start_Stay,End_Stay,Start_City,Start_Lat,Start_Long,End_City,End_Lat,End_Long,Transportation
+1,2,New York City,40.712784,-74.005941,Rio de Janeiro,-22.906847,-43.172896,boat
+2,3,Rio de Janeiro,-22.906847,-43.172896,Sao Paulo,-23.55052,-46.633309,train
+3,17,Sao Paulo,-23.55052,-46.633309,Santos,-23.967882,-46.328887,
+17,4,Santos,-23.967882,-46.328887,Buenos Aires,-34.603684,-58.381559,boat
+4,5,Buenos Aires,-34.603684,-58.381559,Montevideo,-34.901113,-56.164531,boat
+5,18,Montevideo,-34.901113,-56.164531,Buenos Aires,-34.603684,-58.381559,boat
+18,6,Buenos Aires,-34.603684,-58.381559,Rosario,-32.944243,-60.650539,train
+6,7,Rosario,-32.944243,-60.650539,Cordoba,-32.889459,-68.845839,train
+7,8,Cordoba,-32.889459,-68.845839,Mendoza,-32.8908,-68.8272,train
+8,9,Mendoza,-32.8908,-68.8272,Santiago de Chile,-33.45,-70.666667,plane
+9,19,Santiago de Chile,-33.45,-70.666667,Valparaiso,-33.047238,-71.612688,train
+9,19,Santiago de Chile,-33.45,-70.666667,Valparaiso,-33.047238,-71.612688,bus
+19,20,Valparaiso,-33.047238,-71.612688,Callao,-12.050849,-77.125984,boat
+20,11,Callao,-12.050849,-77.125984,Lima,-12.046374,-77.042793,auto
+11,21,Lima,-12.046374,-77.042793,Callao,-12.050849,-77.125984,auto
+21,22,Callao,-12.050849,-77.125984,Buenaventura,3.883047,-77.019721,boat
+22,12,Buenaventura,3.883047,-77.019721,Cali,3.451647,-76.531985,rail
+12,23,Cali,3.451647,-76.531985,Cartago,4.747221,-75.911629,rail
+23,13,Cartago,4.747221,-75.911629,Manizales,5.070275,-75.513817,rail
+13,14,Manizales,5.070275,-75.513817,Medellin,6.253041,-75.564574,auto
+14,14,Medellin,6.253041,-75.564574,Bogota,4.710989,-74.072092,plane
+15,24,Bogota,4.710989,-74.072092,Cucuta,7.889097,-72.49669,bus
+24,16,Cucuta,7.889097,-72.49669,Caracas,10.46964,-66.803718,auto
+16,25,Caracas,10.46964,-66.803718,La Guaira,10.6,-66.933056,auto
+25,26,La Guaira,10.6,-66.933056,New York City,40.712784,-74.005941,boat
