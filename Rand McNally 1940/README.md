@@ -83,3 +83,18 @@ different and must be read from QGIS again:
 The results looks pretty good:
 
 ![qgis-sinu](img/qgis-sinu.jpg)
+
+Cutting Tiles
+-------------
+
+For web map display, convert the warped map to map tiles using `gdal2tiles.py`
+starting at map zoom level 6:
+
+    gdal2tiles.py -w openlayers -z 0-6 \
+        -c 'Rand McNally 1940' -t 'Map of South and Central America' \
+        5969008-sinu.tif tiles
+
+Convert all generated PNG tiles to smaller JPEG images using Python and
+[convert](http://www.imagemagick.org/script/convert.php):
+
+    python convert-tiles.py
