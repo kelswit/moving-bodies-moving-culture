@@ -1,0 +1,46 @@
+<VRTDataset rasterXSize="6033" rasterYSize="7900">
+  <Metadata />
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <GCPList Projection="PROJCS[&quot;unnamed&quot;,GEOGCS[&quot;WGS 84&quot;,DATUM[&quot;unknown&quot;,SPHEROID[&quot;WGS84&quot;,6378137,298.257223563]],PRIMEM[&quot;Greenwich&quot;,0],UNIT[&quot;degree&quot;,0.0174532925199433]],PROJECTION[&quot;Sinusoidal&quot;],PARAMETER[&quot;longitude_of_center&quot;,-59],PARAMETER[&quot;false_easting&quot;,0],PARAMETER[&quot;false_northing&quot;,0]]">
+    <GCP Id="" Pixel="1233.0000" Line="1249.0000" X="-1.838000000000E+06" Y="6.960000000000E+05" />
+    <GCP Id="" Pixel="4893.0000" Line="2183.0000" X="2.266000000000E+06" Y="-4.140000000000E+05" />
+    <GCP Id="" Pixel="2925.0000" Line="5242.0000" X="5.200000000000E+04" Y="-3.826000000000E+06" />
+    <GCP Id="" Pixel="1170.0000" Line="3053.0000" X="-1.970000000000E+06" Y="-1.329000000000E+06" />
+    <GCP Id="" Pixel="2256.0000" Line="6916.0000" X="-7.110000000000E+05" Y="-5.719000000000E+06" />
+  </GCPList>
+  <VRTRasterBand dataType="Byte" band="1">
+    <Metadata />
+    <ColorInterp>Red</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">5969008.jpg</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="6033" RasterYSize="7900" DataType="Byte" BlockXSize="6033" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="6033" ySize="7900" />
+      <DstRect xOff="0" yOff="0" xSize="6033" ySize="7900" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="2">
+    <Metadata />
+    <ColorInterp>Green</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">5969008.jpg</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="6033" RasterYSize="7900" DataType="Byte" BlockXSize="6033" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="6033" ySize="7900" />
+      <DstRect xOff="0" yOff="0" xSize="6033" ySize="7900" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="3">
+    <Metadata />
+    <ColorInterp>Blue</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">5969008.jpg</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="6033" RasterYSize="7900" DataType="Byte" BlockXSize="6033" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="6033" ySize="7900" />
+      <DstRect xOff="0" yOff="0" xSize="6033" ySize="7900" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
