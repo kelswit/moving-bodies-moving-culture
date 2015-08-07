@@ -1,0 +1,400 @@
+United States of America{
+"type": "FeatureCollection",
+"features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Havana”,
+            "Country": “Cuba”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [23.159167,-82.271056]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “New York City”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [40.712784,-74.005941]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Brooklyn”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [40.678178,-73.944158]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “St Petersburg”,
+            "Country": “Russia”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [40.678178,-73.944158]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Canton”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [40.798947,-81.378447]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “San Diego“,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [32.715738,-117.161084]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Brigham City”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [41.510213,-112.015502]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Schenectady”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [42.814243,-73.939569]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “St Louis”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [38.627003,-90.199404]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Freinwalde”,
+            "Country": “Germany”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [52.78434,14.03092]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Bellwood”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [40.602401,-78.334438]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “East St Louis”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [38.624514,-90.150646]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Atlantic City”,
+            "Country": “New Jersey“
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [39.364283,-74.422927]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Melrose”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [42.458429,-71.066163]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Philadelphia”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [39.952584,-75.165222]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “London”,
+            "Country": “England”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [51.507351,-0.127758]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Hartford”,
+            "Country": “Connecticut”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [41.763711,-72.685093]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Rochester”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [43.16103,-77.610922]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Berwyn”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [41.850587,-87.793668]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Toronto”,
+            "Country": “Canada”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [43.653226,-79.383184]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Torreon”,
+            "Country": “Mexico”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [25.542844,-103.406786]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Camargo”,
+            "Country": “Mexico”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [27.676379,-105.166953]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Linares”,
+            "Country": “Mexico”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [24.863949,-99.561785]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Petrograd”,
+            "Country": “Russia”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [60.076238,30.121383]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Minneapolis”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [44.977753,-93.265011]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Goldsboro”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [35.384884,-77.992765]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Seattle”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [47.60621,-122.332071]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Melbourne”,
+            "Country": “Australia”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-37.814107,144.96328]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Wilkesbarre”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [41.245915,-75.881307]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Antlers”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [34.231212,-95.620248]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Mannheim”,
+            "Country": “Germany”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [49.487459,8.466039]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Hoboken”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [40.743991,-74.032363]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Stamford”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [41.05343,-73.538734]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Pittsburgh”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [40.440625,-79.995886]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "City": “Provo”,
+            "Country": “United States of America”
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [40.233844,-111.658534]
+            }
+        }
+    ]
+}
