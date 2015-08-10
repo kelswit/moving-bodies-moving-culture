@@ -42,7 +42,7 @@
             },
         "geometry": {
             "type": "Point",
-            "coordinates": [-73.944158, 40.678178]
+            "coordinates": [30.335099, 59.93428]
             }
         },
     {
@@ -137,7 +137,7 @@
         "type": "Feature",
         "properties": {
             "City": "Atlantic City",
-            "Country": "New Jersey"
+            "Country": "United States of America"
             },
         "geometry": {
             "type": "Point",
@@ -181,7 +181,7 @@
         "type": "Feature",
         "properties": {
             "City": "Hartford",
-            "Country": "Connecticut"
+            "Country": "United States of America"
             },
         "geometry": {
             "type": "Point",
