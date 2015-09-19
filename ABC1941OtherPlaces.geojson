@@ -1,0 +1,1213 @@
+{
+"type": "FeatureCollection",
+"features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "location",
+            "End_Type": "location",
+            "Start_City": "Bridgetown",
+            "End_City": "Africa",
+            "page": "2735"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-59.598809, 13.113222], [34.508523, -8.783195] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Bridgetown",
+            "End_City": "French",
+            "page": "2740"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-59.598809, 13.113222], [2.213749, 46.227638] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Bridgetown",
+            "End_City": "London",
+            "page": "2741"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-59.598809, 13.113222], [-0.127758, 51.507351] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Bridgetown",
+            "End_City": "Venice",
+            "page": "2742"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-59.598809, 13.113222], [12.315515, 45.440847] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Bridgetown",
+            "End_City": "English",
+            "page": "2744"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-59.598809, 13.113222], [-1.17432, 52.355518] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Rio de Janeiro",
+            "End_City": "Europe",
+            "page": "2751"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-43.172896, -22.906847], [15.255119, 54.525961] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Rio de Janeiro",
+            "End_City": "French",
+            "page": "2755"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-43.172896, -22.906847], [2.213749, 46.227638] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Rio de Janeiro",
+            "End_City": "Russia",
+            "page": "2759"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-43.172896, -22.906847], [105.318756, 61.52401] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+             "Start_Type": "loc",
+             "End_Type": "lang",
+             "Start_City": "Rio de Janeiro",
+             "End_City": "Russian",
+             "page": "2761"
+             },
+        "geometry": {
+             "type": "LineString",
+             "coordinates": [ [-43.172896, -22.906847], [105.318756, 61.52401] ]
+             }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+             "Start_Type": "loc",
+             "End_Type": "lang",
+             "Start_City": "Rio de Janeiro",
+             "End_City": "French",
+             "page": "2761"
+             },
+        "geometry": {
+             "type": "LineString",
+             "coordinates": [ [-43.172896, -22.906847], [2.213749, 46.227638] ]
+             }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Rio de Janeiro",
+            "End_City": "German",
+            "page": "2763"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-43.172896, -22.906847], [10.451526, 51.165691] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+             "Start_Type": "loc",
+             "End_Type": "nat",
+             "Start_City": "Rio de Janeiro",
+             "End_City": "Parisianne",
+             "page": "2763"
+             },
+        "geometry": {
+             "type": "LineString",
+             "coordinates": [ [-43.172896, -22.906847], [2.352222, 48.856614] ]
+             }
+             },
+     {
+        "type": "Feature",
+        "properties": {
+             "Start_Type": "loc",
+             "End_Type": "loc",
+             "Start_City": "Rio de Janeiro",
+             "End_City": "New York",
+             "page": "2768"
+             },
+        "geometry": {
+             "type": "LineString",
+             "coordinates": [ [-43.172896, -22.906847], [-74.005941, 40.712784] ]
+             }
+             },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Rio de Janeiro",
+            "End_City": "North American cities",
+            "page": "2791"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-43.172896, -22.906847], [-105.255119, 54.525961] ]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "lang",
+            "Start_City": "Rio de Janeiro",
+            "End_City": "German",
+            "page": "2798"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-43.172896, -22.906847], [10.451526, 51.165691] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Sao Paolo",
+            "End_City": "Rio de Janeiro",
+            "page": "2831"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.633309, -23.55052], [-43.172896, -22.906847] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Sao Paolo",
+            "End_City": "North American cities",
+            "page": "2832"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.633309, -23.55052], [-105.255119, 54.525961] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Sao Paolo",
+            "End_City": "New York City",
+            "page": "2833"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.633309, -23.55052], [-74.005941, 40.712784] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Sao Paolo",
+            "End_City": "Rio de Janeiro",
+            "page": "2834"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.633309, -23.55052], [-43.172896, -22.906847] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Sao Paolo",
+            "End_City": "North America",
+            "page": "2835"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.633309, -23.55052], [-105.255119, 54.525961] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Santos",
+            "End_City": "Spanish",
+            "page": "2849"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.328887, -23.967882], [-3.74922, 40.463667] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Santos",
+            "End_City": "Argentina",
+            "page": "2850"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.328887, -23.967882], [-63.616672, -38.416097] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Santos",
+            "End_City": "Uruguay",
+            "page": "2850"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.328887, -23.967882], [-55.765835, -32.522779] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Santos",
+            "End_City": "Europe",
+            "page": "2850"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.328887, -23.967882], [15.255119, 54.525961] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Santos",
+            "End_City": "Egypt",
+            "page": "2852"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-46.328887, -23.967882], [30.802498, 26.820553] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Buenos Aires",
+            "End_City": "New York City",
+            "page": "2857"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [-74.005941, 40.712784] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Buenos Aires",
+            "End_City": "Spanish",
+            "page": "2858"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [-3.74922, 40.463667] ]
+            }
+        },
+      {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Buenos Aires",
+            "End_City": "New York City",
+            "page": "2863"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [-74.005941, 40.712784] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Buenos Aires",
+            "End_City": "Sao Paolo",
+            "page": "2869"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [-105.255119, 54.525961] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Buenos Aires",
+            "End_City": "Rio de Janeiro",
+            "page": "2869"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [-43.172896, -22.906847] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Buenos Aires",
+            "End_City": "German",
+            "page": "2873"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [10.451526, 51.165691] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Buenos Aires",
+            "End_City": "German",
+            "page": "2877"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [10.451526, 51.165691] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Buenos Aires",
+            "End_City": "French",
+            "page": "2877"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [2.213749, 46.227638] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Buenos Aires",
+            "End_City": "Italian",
+            "page": "2877"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [12.56738, 41.87194] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Buenos Aires",
+            "End_City": "North American",
+            "page": "2877"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [-105.255119, 54.525961] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Montevideo",
+            "End_City": "Rio de Janeiro",
+            "page": "2884"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-56.164531, -34.901113], [-43.172896, -22.906847] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Buenos Aires",
+            "End_City": "North America",
+            "page": "2887"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-58.381559, -34.603684], [-105.255119, 54.525961] ]
+            }
+        },
+
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Argentina",
+            "End_City": "Europe",
+            "page": "2891"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-63.616672, -38.416097], [15.255119, 54.525961] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Argentina",
+            "End_City": "Latin Europe",
+            "page": "2891"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-63.616672, -38.416097], [3.876716, 43.610769] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Rosario",
+            "End_City": "American",
+            "page": "2893"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-60.650539, -32.944243], [-82.900075, 32.165622] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Cordoba",
+            "End_City": "Mid-West American City",
+            "page": "2900"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-68.845839, -32.889459], [-90.664572, 42.500558] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Cordoba",
+            "End_City": "Spain",
+            "page": "2900"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-68.845839, -32.889459], [-3.74922, 40.463667] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Santiago de Chile",
+            "End_City": "Buenos Aires",
+            "page": "2922"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [-58.381559, -34.603684] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Santiago de Chile",
+            "End_City": "Harlem",
+            "page": "2926"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [-73.946477, 40.81155] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Santiago de Chile",
+            "End_City": "American",
+            "page": "2928"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [-82.900075, 32.165622] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Santiago de Chile",
+            "End_City": "East Coast",
+            "page": "2929"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [-51.217658, -30.034647] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Santiago de Chile",
+            "End_City": "German",
+            "page": "2930"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [10.451526, 51.165691] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Santiago de Chile",
+            "End_City": "Nazi",
+            "page": "2931"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [10.451526, 51.165691] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "lang",
+            "Start_City": "Santiago de Chile",
+            "End_City": "German",
+            "page": "2933"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [10.451526, 51.165691] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "lang",
+            "Start_City": "Santiago de Chile",
+            "End_City": "French",
+            "page": "2933"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [2.213749, 46.227638] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "lang",
+            "Start_City": "Santiago de Chile",
+            "End_City": "Latin Europe",
+            "page": "2935"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.666667, -33.45], [3.876716, 43.610769] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Vina del Mar",
+            "End_City": "American",
+            "page": "2938"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-71.550028, -33.015348], [-82.900075, 32.165622] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Valparaiso",
+            "End_City": "New York City",
+            "page": "2947"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-71.612688, -33.047238], [-74.005941, 40.712784] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Tocopilla",
+            "End_City": "Antofogosto",
+            "page": "2957"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.193006, -22.085798], [-70.397502, -23.650928] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Tocopilla",
+            "End_City": "Vina del Mar",
+            "page": "2960"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-70.193006, -22.085798], [-71.550028, -33.015348] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Mollendo",
+            "End_City": "North American",
+            "page": "2970"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-72.017186, -17.020634], [-105.255119, 54.525961] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Lima",
+            "End_City": "Santiago de Chile",
+            "page": "2982"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-77.042793, -12.046374], [-70.666667, -33.45] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Lima",
+            "End_City": "Spanish",
+            "page": "2983"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-77.042793, -12.046374], [-3.74922, 40.463667] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Lima",
+            "End_City": "Madison Square Garden",
+            "page": "2984"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-77.042793, -12.046374], [-73.9934900, 40.7505200] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Guaya River",
+            "End_City": "Congo",
+            "page": "2996"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-79.818468, -2.607057], [16.18162, -2.420088] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Puna Island",
+            "End_City": "Congo",
+            "page": "2998"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-80.142858, -2.854921], [16.18162, -2.420088] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Puna Island",
+            "End_City": "Argentina",
+            "page": "2998"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-80.142858, -2.854921], [-63.616672, -38.416097] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Puna Island",
+            "End_City": "Brooklyn-born Ecuadorian",
+            "page": "2999"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-80.142858, -2.854921], [-73.944158, 40.678178] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Buenaventura",
+            "End_City": "Quito",
+            "page": "3002"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-77.019721, 3.883047], [-78.467838, -0.180653] ]
+            }
+        },
+      {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Cali",
+            "End_City": "Cartagena",
+            "page": "3009"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-76.531985, 3.451647], [-0.996584, 37.625683] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Cali",
+            "End_City": "New York City",
+            "page": "3009"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-76.531985, 3.451647], [-74.005941, 40.712784] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Cali",
+            "End_City": "Rio de Janeiro",
+            "page": "3011"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-76.531985, 3.451647], [-43.172896, -22.906847] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Cali",
+            "End_City": "Buenos Aires",
+            "page": "3013"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-76.531985, 3.451647], [-58.381559, -34.603684] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Cali",
+            "End_City": "French",
+            "page": "3015"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-76.531985, 3.451647], [2.213749, 46.227638] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Manizales",
+            "End_City": "Cali",
+            "page": "3015"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.513817, 5.070275], [-76.531985, 3.451647] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Manizales",
+            "End_City": "Rio do Janeiro",
+            "page": "3017"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.513817, 5.070275], [-43.172896, -22.906847] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Manizales",
+            "End_City": "Buenos Aires",
+            "page": "3017"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.513817, 5.070275], [-58.381559, -34.603684] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Manizales",
+            "End_City": "English",
+            "page": "3025"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.513817, 5.070275], [-1.17432, 52.355518] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Medellin",
+            "End_City": "Nazi",
+            "page": "3032"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.564574, 6.253041], [10.451526, 51.165691] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Medellin",
+            "End_City": "German",
+            "page": "3033"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.564574, 6.253041], [10.451526, 51.165691] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Medellin",
+            "End_City": "Fifth Avenue",
+            "page": "3034"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.564574, 6.253041], [-73.996985, 40.731412] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Medellin",
+            "End_City": "Nazi",
+            "page": "3035"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.564574, 6.253041], [10.451526, 51.165691] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Medellin",
+            "End_City": "German",
+            "page": "3035"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.564574, 6.253041], [10.451526, 51.165691] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "lang",
+            "Start_City": "Medellin",
+            "End_City": "French",
+            "page": "3035"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-75.564574, 6.253041], [2.213749, 46.227638] ]
+            }
+        },
+     {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Bogota",
+            "End_City": "Buenos Aires",
+            "page": "3037"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-74.072092, 4.710989], [-58.381559, -34.603684] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Bogota",
+            "End_City": "Spanish",
+            "page": "3037"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-74.072092, 4.710989], [-3.74922, 40.463667] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Bogota",
+            "End_City": "Fifth Avenue",
+            "page": "3039"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-74.072092, 4.710989], [-73.996985, 40.731412] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "nat",
+            "Start_City": "Bogota",
+            "End_City": "Polish",
+            "page": "3043"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-74.072092, 4.710989], [19.145136, 51.919438] ]
+            }
+        },
+      {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Cucuta",
+            "End_City": "Badlands of North Dakota",
+            "page": "3045"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-72.49669, 7.889097], [-102.77191, 46.901325] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Caracas",
+            "End_City": "New York City",
+            "page": "3058"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-66.803718, 10.46964], [-74.005941, 40.712784] ]
+            }
+        },
+    {
+        "type": "Feature",
+        "properties": {
+            "Start_Type": "loc",
+            "End_Type": "loc",
+            "Start_City": "Baranquilla River",
+            "End_City": "Mississippi River",
+            "page": "3093"
+            },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [ [-9.026372, 42.808531], [-90.366819, 38.342773] ]
+            }
+        }
+
+    ]
+}
