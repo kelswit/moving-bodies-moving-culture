@@ -107,4 +107,4 @@ id_number,Page-Number,Page-Id,Parent_id,Start-City,Start-State,Start-Country,Sta
 23,379,3062,La Guaira,La Guaira,,Venezuela,,,"-66.9346, 10.59901",Paris,,France,,,"2.34864, 48.85339",Reference,Weak ,,
 23,379,3062,La Guaira,La Guaira,,Venezuela,,,"-66.9346, 10.59901",,,Germany,,German,"9.62743, 51.196755",Reference,Weak ,,
 23,379,3062,La Guaira,La Guaira,,Venezuela,,,"-66.9346, 10.59901",,,France,,Frenchman,"2.549047, 46.698481",Reference,Weak ,,
-24,409,3039,Magdalena River,Barranquilla,,Colombia,,Magdalena River,"11.018859, -74.785574",,,United States,Mississippi River,,"-91.135177, 33.593425",PlaceToPlace,Strong,Y,Positive
+24,409,3039,Magdalena River,Barranquilla,,Colombia,,Magdalena River,"-74.785574, 11.018859",,,United States,Mississippi River,,"-91.135177, 33.593425",PlaceToPlace,Strong,Y,Positive
